@@ -2,7 +2,7 @@
 Adventure-works Project
 
 ## 📊 PowerBI Dashboard
-![PowerBI](Screenshots/PowerBI.png)
+![Power Bi](Screenshots/Power Bi.png)
 
 ## 📈 Tableau Dashboard
 ![Tableau](Screenshots/Tableau.png)
