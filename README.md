@@ -15,3 +15,11 @@ Adventure-works Project
 - PowerBI → Dashboard visualization
 - Tableau → Interactive dashboards
 - excel → Data analysis
+
+  ## 🔗 Contact
+
+ Email: [madhavi170691@gmail.com](mailto:madhavi170691@gmail.com)
+
+ Resume: [View Resume](Excelr Resume.pdf)
+
+
