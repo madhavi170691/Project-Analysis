@@ -20,4 +20,4 @@ Adventure-works Project
 
  Email: [madhavi170691@gmail.com](mailto:madhavi170691@gmail.com)
 
- Resume: [View Resume](Excelr%20Resume.doc)doc
+ 📄 Resume: [View Resume](Madhavi_lalam_Resume.doc)
