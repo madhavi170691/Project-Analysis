@@ -14,3 +14,4 @@ Adventure-works Project
 - SQL → Data analysis using SQL
 - PowerBI → Dashboard visualization
 - Tableau → Interactive dashboards
+- excel → Data analysis
