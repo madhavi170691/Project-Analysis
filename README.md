@@ -1,7 +1,7 @@
 # Project-Analysis
 Adventure-works Project
 
-## 📊 PowerBI Dashboard
+## 📊 Power Bi Dashboard
 ![Power Bi](Screenshots/Power Bi.png)
 
 ## 📈 Tableau Dashboard
