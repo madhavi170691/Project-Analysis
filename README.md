@@ -9,3 +9,8 @@ Adventure-works Project
 
 ## 📊 Excel Dashboard
 ![Excel](Screenshots/Excel.png)
+
+## 📁 Project Structure
+- SQL → Data analysis using SQL
+- PowerBI → Dashboard visualization
+- Tableau → Interactive dashboards
